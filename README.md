@@ -1,5 +1,5 @@
 # DNS-Linux
-##Configuración dun servidor DNS con cliente Alpine e Ubuntu
+## Configuración dun servidor DNS con cliente Alpine e Ubuntu
 A práctica segue como referencia a guía oficial de Ubuntu para configuración de DNS. O obxectivo é crear un sistema cun servidor DNS e un cliente Alpine que cumpran os seguintes requisitos.
 
 - Arquivos necesarios
